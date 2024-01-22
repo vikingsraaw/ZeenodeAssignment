@@ -91,6 +91,8 @@ Prerequisites
 Make sure you have the following installed on your machine:
 
 Java Development Kit (JDK)
+VS code 
+Java Extension pack by microsoft (VS code extension)
 Git (optional, for cloning the repository)
 
 
@@ -99,11 +101,8 @@ Clone the repository:
 
 git clone https://github.com/your-username/shopping-cart-java.git
 
-Compile the Java files:
-javac Main.java
-
-Run the application:
-java Main
+Run:
+Click on Run option in Vs code
 
 
 Usage
